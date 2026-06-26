@@ -8,7 +8,9 @@ Aplikasi manajemen kos-kosan yang memungkinkan pencari kos untuk mencari dan mem
 
 ```
 AplikasiKos_Kelompok6/
-├── Ariel_04231012.txt                      # File latihan Git
+├── Ariel_04231012.txt                      # File latihan Git Ariel
+├── Fajrina_04221083.txt                    # File latihan Git Fajrina
+├── Joshua_04231044.txt                     # File latihan Git Joshua
 ├── UML_AplikasiKos.pdf                     # Diagram UML (PDF)
 ├── UML_Diagrams.html                       # Diagram UML (HTML Source)
 ├── app/
@@ -33,3 +35,5 @@ AplikasiKos_Kelompok6/
 | Nama | NIM |
 |------|-----|
 | Ariel Athaillah Kheristiawan | 04231012 |
+| Fajrina Aprilia Kartika | 04221083 |
+| Joshua Jhay Palullungan | 04231044 |
